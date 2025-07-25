@@ -1,0 +1,3 @@
+void Nextgreater(int arr[]){
+    
+// }
